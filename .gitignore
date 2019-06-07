@@ -1,0 +1,8 @@
+# python bytecode
+*.pyc
+
+# generated ui code
+qt_uis/ui_*.py
+
+# profang config (don't leak settings)
+.settings/*
